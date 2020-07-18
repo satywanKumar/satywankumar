@@ -1,7 +1,7 @@
 ### i am satywan kumar 👋
-I’m a web developer
-I'm proficient in Angular
-I'm also a MEAN stack developer
+- I’m a web developer
+- I'm proficient in Angular
+- I'm also a MEAN stack developer
 
 <!--
 **satywanKumar/satywankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
