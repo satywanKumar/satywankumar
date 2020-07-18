@@ -1,4 +1,4 @@
-### i am satywan kumar 👋
+### Hi! i am satywan kumar 👋
 - I’m a web developer
 - I'm proficient in Angular
 - I'm also a MEAN stack developer
